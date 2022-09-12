@@ -1,1 +1,1 @@
-# rsschool-cv
+https://eOne1999.github.io/rsschool-cv/cv
