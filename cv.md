@@ -41,3 +41,7 @@ function makeItFunny(str, n) {
     + Digital technologies in instrumentation
 * Professional retraining, ITMO University
     + Financial management
+---
+## Languages
+* Russian - Native
+* English - Intermediate B1 (According to ITMO English language proficiency certificate)
