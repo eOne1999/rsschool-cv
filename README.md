@@ -1,1 +1,1 @@
-https://eOne1999.github.io/rsschool-cv/cv
+https://eOne1999.github.io/rsschool-cv/
