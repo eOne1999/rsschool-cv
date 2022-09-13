@@ -30,7 +30,7 @@
                 <div class="contacts">
                     <h2>Contacts</h2>
                     <ul>
-                        <li>Phone: <a href="tel:+71234567890">+ 7 123 456-78-90</a></li>
+                        <li>Phone: <a href="tel:+71234567890">+&nbsp;7&nbsp;123&nbsp;456&#8209;78&#8209;90</a></li>
                         <li>Email: <a href="mailto:dmitriev_vanya@mail.ru">dmitriev_vanya@mail.ru</a></li>
                         <li>Telegram: <a href="https://t.me/EbonSe/">EbonSe</a></li>
                         <li>GitHub: <a href="https://github.com/eOne1999/">eOne1999</a></li>
@@ -64,7 +64,7 @@
 function makeItFunny(str, n) {
     let i = 0;
     let newStr = '';
-    while (i < str.length) {
+    while (i &lt; str.length) {
     if ((i + 1) % n === 0) {
         newStr += str[i].toUpperCase();
     } else {
@@ -82,12 +82,21 @@ function makeItFunny(str, n) {
             <div class="education-section">
                 <h2>Education</h2>
                 <ol>
-                    <b><li>2017–2021, ITMO University</li></b>
-                    <p>Computer Technologies in Instrument Engineering (Bachelor's Degree)</p>
-                    <b><li>2020–2021, ITMO University</li></b>
-                    <p>Financial Management (Professional Retraining)</p>
-                    <b><li>2021–present, ITMO University</li></b>
-                    <p>Industrial cyber-physical systems (Master's degree)</p>
+                    <li>2017–2021, ITMO University
+                        <ul>
+                            <li>Computer Technologies in Instrument Engineering (Bachelor's Degree)</li>
+                        </ul>
+                    </li>
+                    <li>2020–2021, ITMO University
+                        <ul>
+                            <li>Financial Management (Professional Retraining)</li>
+                        </ul>
+                    </li>
+                    <li>2021–present, ITMO University
+                        <ul>
+                            <li>Industrial cyber-physical systems (Master's degree)</li>
+                        </ul>
+                    </li>
                 </ol>
             </div>
             <div class="lang-section">
